@@ -154,6 +154,8 @@ table,
 td {
     border: 1px solid #333;
     text-align: center;
+   
+    word-break:break-word;
 }
 
 thead,
@@ -202,6 +204,7 @@ a.button {
 }
 
 .abstract {
-text-align: left;
+white-space:pre-wrap;
+text-align: justify;
 margin: auto;
 }
