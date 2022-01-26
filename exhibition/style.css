@@ -185,7 +185,7 @@ button {
 }
 .logos{
   display: inline-block;
-  margin:auto;
+  /*margin:auto;*/
 }
 
 a.button {
